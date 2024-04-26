@@ -1,7 +1,4 @@
-# Discord Nitro Gift Code Verification - DNGCV
-
-```markdown
-# Discord Gift Code Checker
+# Discord Gift Code Checker - DG2C
 
 This program is designed to automatically generate and verify Discord gift codes. It uses Discord's APIs to check the validity of the generated codes and sends the results to a Discord webhook.
 
