@@ -9,7 +9,7 @@ import multiprocessing
 import requests
 
 # Discord webhook URL
-discord_webhook_url = "https://discord.com/api/webhooks/1226485515843407933/2yd-YcWOIQ5phplliiAH2GhN6kPio8UlXFXkXQk1f5zXv5YGoHH9ZZszd7yxK2Wft5Rv"
+discord_webhook_url = "Enter here your web hook"
 
 def generate_random_string(length):
     """Generates a random alphanumeric string of given length using only lowercase characters."""
