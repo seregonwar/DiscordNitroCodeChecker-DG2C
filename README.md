@@ -72,3 +72,8 @@ After generating and verifying the gift codes, the program starts a user interfa
 root = tk.Tk()
 app = DiscordCodeCheckerGUI(root)
 root.mainloop()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=DiscordGiftCodeChecker-DG2C&theme=dark)](https://github.com/seregonwar/DiscordGiftCodeChecker-DG2C)
+
+
+
