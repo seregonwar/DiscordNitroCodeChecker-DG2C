@@ -1,12 +1,12 @@
-import tkinter as tk  # Importing the tkinter library for creating a GUI
-from gui import DiscordCodeCheckerGUI  # Importing the DiscordCodeCheckerGUI class from the gui module
-import string  # Importing the string library for string manipulation
-import random  # Importing the random library for generating random values
-import httpx  # Asynchronous HTTP client library
-import asyncio  # Library for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources, running network clients and servers, and other related primitives
-import concurrent.futures  # Library for parallel execution of tasks
-import multiprocessing  # Library for launching new processes
-import requests  # Library for making HTTP requests
+import tkinter as tk  
+from gui import DiscordCodeCheckerGUI  
+import string  
+import random  
+import httpx 
+import asyncio  
+import concurrent.futures  
+import multiprocessing  
+import requests  
 
 # Discord webhook URL
 discord_webhook_url = "Enter here your web hook"  # Placeholder for the Discord webhook URL
